@@ -4,16 +4,16 @@ image {
 	width:80px; 
 }
 body {
-	background-color: black;
+	background-color: white;
 }
 h1 {
-color: white;
+color: rgb(0, 0, 0);
 font-family: verdana; 
 font-size: medium;
 }
 
 p {
-color: white;
+color: rgb(0, 0, 0);
 font-family: arial;
 font-size: small;
 }
